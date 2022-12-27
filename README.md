@@ -36,3 +36,27 @@
 <li>학생 정보 등록: POST /studens</li>
 <li>학생 정보 조회: GET /students/{studentId}</li>
 <li>학생 정보 수정: PUT /students/{studentId}</li></ul>
+
+### home
+<img width="1440" alt="스크린샷 2022-12-27 오후 1 43 02" src="https://user-images.githubusercontent.com/77679326/209613579-7e8b5423-4b49-4ae8-aec0-257a8dfda9df.png">
+
+### 다국어 처리
+<img width="1440" alt="스크린샷 2022-12-27 오후 1 43 07" src="https://user-images.githubusercontent.com/77679326/209613637-227abd69-13e1-4b32-aac0-7f6d5605212d.png">
+
+### 로그인 성공 화면
+<img width="1440" alt="스크린샷 2022-12-27 오후 1 43 22" src="https://user-images.githubusercontent.com/77679326/209613706-9d034227-ad16-4687-9fac-e3fdf33499de.png">
+
+### 학생 정보 등록 화면
+<img width="1440" alt="스크린샷 2022-12-27 오후 1 44 11" src="https://user-images.githubusercontent.com/77679326/209613808-368ed924-c457-48dc-b7fb-0ad1c3ca1cbd.png">
+
+### 학생 정보 조회 화면(점수O)
+<img width="1440" alt="스크린샷 2022-12-27 오후 1 44 15" src="https://user-images.githubusercontent.com/77679326/209613832-87704369-06e0-460a-b0ef-48db076b1935.png">
+
+### 학생 정보 조회 화면(점수x)
+<img width="1440" alt="스크린샷 2022-12-27 오후 1 44 29" src="https://user-images.githubusercontent.com/77679326/209613961-e9964896-fba2-4948-ae90-64b002b69a7d.png">
+
+### 학생 정보 수정
+<img width="1440" alt="스크린샷 2022-12-27 오후 1 44 39" src="https://user-images.githubusercontent.com/77679326/209613981-331d16c2-07aa-4bfb-8839-76ae9eb5b1a6.png">
+
+### 학생 정보 수정 후 화면
+<img width="1440" alt="스크린샷 2022-12-27 오후 1 44 43" src="https://user-images.githubusercontent.com/77679326/209614039-ee3365a3-dcfa-4c9e-90c1-f9e852e9122e.png">

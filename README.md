@@ -31,3 +31,8 @@
 <li>GET /student/{studentId}</li>
 <li>GET /student/{studentId}/modify</li>
 <li>그 외의 예외는 @ControllerAdvice를 이용해서 예외 처리를 해야 한다.</li></ul>
+</br>
+<ul>REST API 에 대해
+<li>학생 정보 등록: POST /studens</li>
+<li>학생 정보 조회: GET /students/{studentId}</li>
+<li>학생 정보 수정: PUT /students/{studentId}</li></ul>

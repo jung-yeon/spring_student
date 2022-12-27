@@ -60,3 +60,8 @@
 
 ### 학생 정보 수정 후 화면
 <img width="1440" alt="스크린샷 2022-12-27 오후 1 44 43" src="https://user-images.githubusercontent.com/77679326/209614039-ee3365a3-dcfa-4c9e-90c1-f9e852e9122e.png">
+
+## 아쉬운 점
+<ul>
+  <li>model, view, controller에 대한 정확한 이해를 가지고 진행했다면 더욱 시간 단축이 될 수 있고 이해가 빨랐을 거 같다.</li>
+  <li>여러 예외 처리를 생각하고 TestCode를 짰다면 차차 더 완벽했을거 같다.</li>
